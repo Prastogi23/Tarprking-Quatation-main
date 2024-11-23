@@ -1,0 +1,23 @@
+[
+    {
+        "model_no": "SHAIL-02-2D",
+        "hsn": "1234567",
+        "status": true,
+        "createdby": "65bc74363ac56f4a93563c3c",
+        "category": "65bc7d4e020a5888bcd5b61c",
+        "product": "65bc80132881266499e57d2e",
+        "name": "Stack Parking System - Electro",
+        "description": "This is a Stack Parking System - Electro sub-product description.",
+        "image": "path/to/image.jpg",
+        "price": {
+            "quantity": 1,
+            "basic_rate": 1500000,
+            "installation_charges": 6000,
+            "subTotal": 156000
+        },
+        "timings": {
+            "delivery_time": "7-8 weeks",
+            "installation_time": "1-2 weeks"
+        }
+    }
+]
